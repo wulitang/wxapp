@@ -1,0 +1,15 @@
+<import src="../../widget/top/top.wxml" />
+<template is="top" data="{{showLoading: showLoading}}" />
+<view class="douban">
+
+  <!--<image src="{{data.images.large}}" style="width: {{imagewidth}}px; height: {{imageheight}}px;" bindload="imageLoad" class="movie-image"></image>-->
+  <image src="{{data_summary.images.large}}" class="movie-image"></image>
+  <view class="title">{{data_summary.title}}</view>
+  <view class="summary">{{data_summary.summary}}</view>
+  <view class="soon">{{data_movie.title}}</view>
+  <view class="section">
+    <scroll-view class="scroll-view_H" scroll-x="true" style="width: 100%">
+      <image wx:for="{{data_movie.subjects}}" wx:key="data_movie.subjects" src="{{item.images.large}}" bindtap="detailmovie" id="{{item.id}}" class="soon-image"></image>
+    </scroll-view>
+  </view>
+</view>

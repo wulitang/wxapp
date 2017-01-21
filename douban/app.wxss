@@ -1,0 +1,35 @@
+page {
+  display: block;
+  min-height: 100%;
+  background-color: #fff;
+  font-family: "微软雅黑";
+  font-size: 28rpx;
+  color: #6e6e6e;
+}
+.top-title{
+    border-bottom:1px solid #f3f3f3;
+    -webkit-box-pack:justify;
+    justify-content:space-between;
+    -webkit-box-align:center;
+    align-items:center;
+    padding:0 36rpx;
+    background:#fff;
+    height:94rpx;
+    box-sizing:border-box;
+    display:flex;
+    overflow:hidden;
+    position:fixed;
+    left:0;
+    right:0;
+    top:0;
+    z-index:9999;
+}
+.top-title image{
+    height:22px;
+    width:92rpx;
+    display:inline-block;
+}
+.douban{
+    padding: 0 36rpx;
+    margin-top: 115rpx;
+}

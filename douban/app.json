@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/test/test",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#1AAD16",
+    "navigationBarTitleText": "李远的小程序",
+    "navigationBarTextStyle": "#fff"
+  },
+  "tabBar": {
+    "color": "#333",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "white",
+    "selectedColor": "#1AAD16",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+         "iconPath": "common/img/index_L.png",
+         "selectedIconPath": "common/img/index_HL.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/test/test",
+         "iconPath": "common/img/index_L.png",
+         "selectedIconPath": "common/img/index_HL.png",
+        "text": "test"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+         "selectedIconPath": "common/img/component_HL.png",
+         "iconPath": "common/img/component.png",
+        "text": "日志"
+      }
+    ]
+  }
+}

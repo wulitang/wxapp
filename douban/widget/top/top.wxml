@@ -1,0 +1,9 @@
+<template name="top">
+  <view class="top-title" bindtap="goindex" >
+    <image src="../../common/img/logo.png"></image>
+    <view>豆瓣电影</view>
+  </view>
+  <view>
+    <loading wx:if="{{showLoading}}">加载中</loading>
+  </view>
+</template>

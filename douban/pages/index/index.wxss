@@ -1,0 +1,52 @@
+/**index.wxss**/
+
+/*@import "../../widget/loading/loading.wxss";*/
+
+.douban-title {
+  line-height: 48px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.move-min {
+  overflow: hidden;
+}
+
+.move-flax {
+  display: inline-block;
+  width: 25%;
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+.move-min .title {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  display: block;
+  -webkit-box-orient: vertical;
+  height: 18px;
+  line-height: 18px;
+  overflow: hidden;
+  color: #333;
+  text-align: center;
+  padding: 0 5px;
+  font-size: 11px;
+  margin: 5px 0;
+}
+
+.move-image {
+  min-height: 87px;
+  overflow: hidden;
+  position: relative;
+}
+
+.move-before {
+  position: relative;
+  height: 240rpx;
+}
+
+.move-image image {
+  display: block;
+  width: 100%;
+  height: 100%;
+}

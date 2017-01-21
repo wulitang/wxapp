@@ -1,0 +1,41 @@
+.movie-image {
+  width: 50%;
+  height: 475rpx;
+  float: left;
+  margin: 0 15rpx 15rpx 0;
+}
+
+.title {
+  text-align: center;
+  font-size: 30rpx;
+  margin: 20rpx 0;
+}
+
+.summary {
+  line-height: 40rpx;
+  margin-bottom: 20rpx;
+}
+
+.scroll-view_H {
+  white-space: nowrap;
+}
+
+.scroll-view-item {
+  height: 300rpx;
+}
+
+.scroll-view-item_H {
+  display: inline-block;
+  width: 100%;
+  height: 300rpx;
+}
+
+.soon {
+  font-size: 30rpx;
+}
+
+.soon-image {
+  width: 200rpx;
+  height: 280rpx;
+  margin: 15rpx;
+}

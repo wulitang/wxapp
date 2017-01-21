@@ -1,0 +1,19 @@
+<import src="../../widget/top/top.wxml"/>
+<template is="top" data="{{showLoading: showLoading}}"/>
+<view class="douban">
+  <view class="douban-title">{{data.title}}</view>
+  <view class="douban-min">
+    <view wx:for="{{data.subjects}}" wx:key="data.subjects" class="move-flax">
+      <view bindtap="detailmovie" id="{{item.id}}">
+        <view class="move-min">
+          <view class="move-image">
+            <view class="move-before">
+              <image src="{{item.images.large}}"></image>
+            </view>
+          </view>
+          <view class="title">{{item.title}}</view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

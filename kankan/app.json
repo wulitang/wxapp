@@ -1,5 +1,7 @@
 {
   "pages": [
+    "pages/project/project",
+    "pages/education/education",
     "pages/experience/experience",
     "pages/index/index",
     "pages/logs/logs"

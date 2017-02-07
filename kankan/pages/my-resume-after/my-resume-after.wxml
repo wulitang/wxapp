@@ -1,0 +1,151 @@
+
+<!--我的简历编辑后-->
+<view class="resume-wrap">
+  <view class="resume-title">
+    <image src="img/circle1.png"></image>求职头像</view>
+  <view class="icon-wrap">
+    <image src="img/h-icon.png"></image>
+    <text>点击更换</text>
+  </view>
+  <view class="resume-title">
+    <image src="img/circle2.png"></image>
+    <text>基本信息</text>
+    <text class="must">必填</text>
+  </view>
+  <view class="personal-info clearfix">
+    <view class="first-line clearfix line">
+      <text class="info-column fl">姓名</text>
+      <text  class="fl">史佳慧</text>
+      <view class="editor fr">
+        <image src="img/pencel.png"></image>
+        <text>编辑</text>
+      </view>
+    </view>
+    <view class="line">
+      <text class="info-column fl">性别</text>
+      <text  class="write fr">女</text>
+    </view>
+    <view class="line">
+      <text class="info-column fl">生日</text>
+      <text  class="write fr">1994-07-21</text>
+    </view>
+    <view class="line">
+      <text class="info-column fl">最高学历</text>
+      <text  class="write fr">本科</text>
+    </view>
+    <view class="line">
+      <text class="info-column fl">所在城市</text>
+      <text  class="write fr">常州天宁区</text>
+    </view>
+    <view class="line">
+      <text class="info-column fl">联系电话</text>
+      <text  class="write fr">17314434463</text>
+    </view>
+    <view class="line">
+      <text class="info-column fl">联系邮箱</text>
+      <text  class="write fr">17314434463@163.com</text>
+    </view>
+    <view class="line sen-line">
+      <text class="info-column fl">一句话介绍</text>
+      <text  class="write one-sentence fr">生活怎样波折都好，最要紧的是你依旧看得到希望</text>
+    </view>
+  </view>
+  <view class="resume-title">
+    <image src="img/circle3.png"></image>
+    <text>教育经历</text>
+    <text class="must">必填</text>
+  </view>
+  <view class="add-wrap">
+    <view class="editor fr">
+      <image src="img/pencel.png"></image>
+      <text>编辑</text>
+    </view>
+    <view class="edu-one">
+      <image src="img/point.png"></image>
+      <view class="con-title con-margin">2016年毕业</view>
+      <view class="con-desc con-margin">南京师范大学</view>
+      <view class="con-text con-margin">研究生·汉语言文学</view>
+    </view>
+    <view class="edu-one">
+      <image src="img/point.png"></image>
+      <view class="con-title con-margin">2016年毕业</view>
+      <view class="con-desc con-margin">南京师范大学</view>
+      <view class="con-text con-margin">研究生·汉语言文学</view>
+    </view>
+  </view>
+  <view class="resume-title">
+    <image src="img/circle4.png"></image>
+    <text>工作经历</text>
+    <text class="must">必填</text>
+  </view>
+  <view class="add-wrap">
+    <view class="editor fr">
+      <image src="img/pencel.png"></image>
+      <text>编辑</text>
+    </view>
+    <view class="edu-one">
+      <image src="img/point.png"></image>
+      <view class="con-title con-margin">2016-02至2017-02</view>
+      <view class="con-desc con1-margin">【公式名称】四海阳光</view>
+      <view class="con-desc con1-margin">【你的岗位】UE设计师</view>
+      <view class="con-text over-text con-margin">参与用户研究及产品需求制定的整个过程，提出设计需 求及用户体验目标，完成界面的信息构架…</view>
+    </view>
+  </view>
+  <view class="resume-title">
+    <image src="img/circle5.png"></image>
+    <text>期望工作</text>
+    <text class="must">必填</text>
+  </view>
+  <view class="add-wrap">
+    <view class="editor fr">
+      <image src="img/pencel.png"></image>
+      <text>编辑</text>
+    </view>
+    <view class="edu-two">
+        <view class="con-title con-margin">UI设计师 </view>
+        <view class="con-desc con-margin">全职／上海／5k-10k</view>
+        <view class="con-text over-text con-margin">参与用户研究及产品需求制定的整个过程，提出设计需求及 用户体验目标，完成界面的信息构架、流程设计吃不好地...</view>
+    </view>
+  </view>
+  <view class="resume-title">
+    <image src="img/circle6.png"></image>
+    <text>项目经历</text>
+  </view>
+  <view class="add-wrap">
+    <view class="editor fr">
+      <image src="img/pencel.png"></image>
+      <text>编辑</text>
+    </view>
+    <view class="edu-one">
+      <image src="img/point.png"></image>
+      <view class="con-title con-margin">2016-02至今</view>
+      <view class="con-desc con1-margin">【项目名称】看看</view>
+      <view class="con-desc con1-margin">【项目职责】UI/UE设计师</view>
+      <view class="con-text over-text con-margin">参与用户研究及产品需求制定的整个过程，提出设计需 求及用户体验目标，完成界面的信息构架交互式的</view>
+    </view>
+  </view>
+  <view class="resume-title">
+    <image src="img/circle7.png"></image>
+    <text>技能评价</text>
+  </view>
+  <view class="add-wrap last-wrap">
+    <view class="editor last-editor fr">
+      <image src="img/pencel.png"></image>
+      <text>编辑</text>
+    </view>
+    <view class="edu-two">
+        <view class="jdt-wrap">
+            <view class="con-margin"><text class="fl jdt-l">PS</text><text class="fr jdt-r">精通</text></view>
+            <image class="jdt" src="img/jt-jdt.png"></image>
+        </view>
+        <view class="jdt-wrap">
+            <view class="con-margin"><text class="fl jdt-l">AI</text><text class="fr jdt-r">精通</text></view>
+            <image class="jdt" src="img/jt-jdt.png"></image>
+        </view>
+        <view class="jdt-wrap">
+            <view class="con-margin"><text class="fl jdt-l">AE</text><text class="fr jdt-r">掌握</text></view>
+            <image class="jdt" src="img/jt-jdt.png"></image>
+        </view>
+    </view>
+  </view>
+</view>

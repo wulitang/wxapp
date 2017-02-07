@@ -1,0 +1,181 @@
+/*我的简历编辑后*/
+.resume-wrap{
+    margin: auto 20rpx;
+}
+.resume-title image{
+    width: 17rpx;
+    height: 15rpx;
+    margin-right: 25rpx;
+}
+.resume-title{
+    font-size: 30rpx;
+    color: #242424;
+    height: 70rpx;
+    line-height: 70rpx;
+}
+.icon-wrap{
+    width: 100%;
+    height: 180rpx;
+    background: #fff;
+    text-align: center;
+}
+.icon-wrap image{
+    width: 92rpx;
+    height: 92rpx;
+    display: block;
+    margin:0 auto 10rpx auto;
+    padding-top: 20rpx;
+}
+.icon-wrap text{
+    font-size: 26rpx;
+    color: #888;
+}
+.must{
+    font-size: 16rpx;
+    color: #ea0202;
+    width: 55rpx;
+    height: 26rpx;
+    line-height: 26rpx;
+    text-align: center;
+    border: 1px solid #ea0202;
+    border-radius: 16rpx;
+    margin-left: 25rpx;
+    vertical-align: text-top;
+}
+.resume-title text{
+    display: inline-block;
+}
+/*基本信息*/
+.personal-info{
+    color: #2f2f2f;
+    font-size: 28rpx;
+    background: #fff;
+    padding: 10rpx 0 20rpx 0;
+}
+.info-column{
+    width: 25%;
+}
+.first-line input{
+    width: 60%;
+    vertical-align: bottom;
+    height: 60rpx;
+    line-height: 60rpx;
+}
+.editor image{
+    width: 28rpx;
+    height: 28rpx;
+}
+.editor{
+    width: 15%;
+    color: #f3bf4f;
+    font-size: 28rpx;
+}
+.info-column{
+    text-indent: 25rpx;
+}
+.write{
+    width: 75%;
+    overflow-y:visible; 
+    height: 100%;
+}
+.write-textarea{
+    width: 72%;
+    margin-top: 13rpx;
+    line-height: 60rpx;
+}
+.introduce{
+    vertical-align: top;
+}
+.line,.line input{
+    height: 60rpx;
+    line-height: 60rpx;
+}
+.sen-line{
+    height: 120rpx;
+}
+.one-sentence{
+    line-height: 60rpx;
+}
+/*教育经历*/
+.add-wrap{
+    background: #fff;
+    padding-top: 30rpx;
+    color: #2f2f2f;
+}
+.add{
+    width: 34rpx;
+    height: 34rpx;
+    margin-right: 25rpx;
+    vertical-align: bottom;
+}
+.tips{
+    font-size: 22rpx;
+    color: #b7b7b7;
+}
+.add-wrap view{
+    padding-bottom: 20rpx;
+}
+.last-wrap{
+    margin-bottom: 80rpx;
+}
+.con-title{
+    font-size: 28rpx;
+    font-weight: bold;
+}
+.con-desc{
+    font-size: 28rpx;
+}
+.con-text{
+    font-size: 28rpx;
+    color: #8b8b8b;
+}
+.edu-one{
+    margin-left: 40rpx;
+    border-left:1px solid #e2e2e2;
+    position: relative;
+}
+.edu-one image{
+    width: 21rpx;
+    height: 21rpx;
+    position: absolute;
+    left: -10rpx;
+    top: 0;
+}
+.con-margin{
+    margin-left: 32rpx;
+}
+.con1-margin{
+    margin-left: 20rpx;
+}
+.jdt-l{
+    font-size: 28rpx;
+}
+.jdt-r{
+    color: #8b8b8b;
+    font-size: 24rpx;
+    margin-right: 32rpx;
+}
+.last-editor{
+    width: 96%;
+    text-align: right;
+    margin-right: 32rpx;
+}
+.jdt{
+    width: 654rpx;
+    height: 15rpx;
+    margin: 20rpx auto 0rpx auto;
+}
+.jdt-wrap{
+    text-align: center;
+}
+.over-text{
+    height: 65rpx;
+    line-height: 1.4;
+    white-space: normal;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-right: 32rpx;
+}

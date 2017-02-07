@@ -1,13 +1,51 @@
 {
-  "pages":[
+  "pages": [
     "pages/my-job/my-job",
+    "pages/project/project",
+    "pages/education/education",
+    "pages/experience/experience",
     "pages/index/index",
     "pages/logs/logs"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f2ba41",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "borderStyle":"white",
+    "color":"black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath":"img/home.png",
+        "selectedIconPath":"img/home1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "iconPath":"img/work.png",
+        "selectedIconPath":"img/work1.png",
+        "text": "求职"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "iconPath":"img/map.png",
+        "selectedIconPath":"img/map1.png",
+        "text": "地图"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "iconPath":"img/message.png",
+        "selectedIconPath":"img/message1.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "iconPath":"img/me.png",
+        "selectedIconPath":"img/me1.png",
+        "text": "我的"
+      }
+    ]
   }
 }

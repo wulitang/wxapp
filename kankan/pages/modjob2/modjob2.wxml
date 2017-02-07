@@ -1,0 +1,19 @@
+<view class="edu-min">
+    <view class="edu-list edu-list-1">
+        <view class="fl">期望职位</view>  <input placeholder="UI设计"/>
+    </view>
+    <view class="edu-list edu-list-2">
+        <view class="fl">职位类型</view> <input placeholder="全职" />
+    </view>
+    <view class="edu-list edu-list-3">
+        <view class="fl">期望城市</view> <input placeholder="常州" />
+    </view>
+    <view class="edu-list edu-list-4">
+        <view class="fl">期望月薪</view> <input placeholder="5k-10k" />
+    </view>
+    <view class="project_text">项目描述</view>
+    <textarea name="" cols="" rows="">
+        <view class="number">0/300</view>
+     </textarea>
+    <view class="sure">保存</view>
+</view>

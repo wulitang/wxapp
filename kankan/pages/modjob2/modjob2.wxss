@@ -1,0 +1,78 @@
+page{
+    background: #fff;
+}
+.edu-min{
+    border-top:1px solid #eee;
+    padding:0 10px;
+}
+view{
+    font-size: 15px;
+    color: #000;
+}
+.edu-list{
+    line-height: 45px;
+    height: 45px;
+    border-bottom: 1px solid #eee;
+    padding-left:25px;
+}
+input{
+    text-align: right;
+    float: right;
+    font-size: 15px;
+    color: #888888;
+    line-height: 45px;
+    height: 45px;
+}
+.edu-list-1{
+    background: url("../../img/basic_03.png") no-repeat left center;
+    background-size: 6px 6px;
+}
+.edu-list-2{
+    background: url("../../img/basic_06.png") no-repeat left center;
+    background-size: 6px 6px;
+}
+.edu-list-3{
+    margin-top: 35px;
+    background: url("../../img/basic_08.png") no-repeat left center;
+    background-size: 6px 6px;
+}
+.edu-list-4{
+    background: url("../../img/basic_11.png") no-repeat left center;
+    background-size: 6px 6px;
+}
+.project_text{
+    line-height: 45px;
+    height: 45px;
+    padding-left:25px;
+    background: url("../../img/basic_15.png") no-repeat left center;
+    background-size: 6px 6px;
+    margin-top: 40rpx;
+}
+.sure{
+    width: 655rpx;
+    height: 70rpx;
+    margin: auto;
+    text-align: center;
+    color: #000;
+    font-size: 16px;
+    line-height: 70rpx;
+    background: #f3bf4f;
+    margin-top: 120rpx;
+}
+textarea{
+    height: 100px;
+    display: block;
+    width: 660rpx;
+    padding: 10px;
+    background: #eeeeee;
+    color: #000000;
+    margin: auto;
+    position: relative;
+}
+.number{
+    font-size: 12px;
+    color: #a0a0a0;
+    position: absolute;
+    bottom:8px;
+    right: 8px;
+}

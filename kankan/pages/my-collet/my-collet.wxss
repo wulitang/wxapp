@@ -16,7 +16,6 @@
 .job-con{
     margin-left: 45rpx;
     width: 570rpx;
-    border-bottom: 1px solid #f0eff5;
 }
 .job-title{
     width: 230rpx;
@@ -81,4 +80,43 @@
 .line{
     height: 50rpx;
     line-height: 50rpx;
+}
+.collet-operate{
+    height: 90rpx;
+    line-height: 90rpx;
+    display: flex;
+}
+.cancel{
+    font-size: 28rpx;
+    color: #888;
+    flex: 1;
+    text-align: center;
+}
+.cancel:after{
+    content: "";
+    width: 1px;
+    height: 35rpx;
+    background: #f0eff5;
+    float: right;
+    margin-top: 25rpx;
+}
+.cancel image{
+    width: 38rpx;
+    height: 36rpx;
+    margin-right: 25rpx;
+}
+.send{
+    font-size: 28rpx;
+    color: #f3bf4f;
+    flex: 1;
+    text-align: center;
+}
+.send image{
+    width: 37rpx;
+    height: 35rpx;
+    margin-right: 25rpx;
+}
+.collet-operate{
+    background: #fff;
+    border-top: 1px solid #f0eff5;
 }

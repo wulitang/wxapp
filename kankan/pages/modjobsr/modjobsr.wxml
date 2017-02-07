@@ -1,0 +1,14 @@
+<view class="basic">
+<form>
+    <view class="point"><label>公司名称</label><input name="user" value="" placeholder="四海阳光" /></view>
+    <view class="point"><label>你的职位</label><input name="user" value="" placeholder="UI设计师" /></view>
+    <view class="point basic_j"><label>入职时间</label> <input name="user" value="" placeholder="2016.11" /></view>
+    <view class="point"><label>离职时间</label> <input name="user" value="" placeholder="2017.02" /></view>
+    <view class="point point_x">工作内容</view>
+    <textarea name="" cols="" rows="">
+    措施包括绝代风华都是不分户籍制度规范简化字随便放在小地方妹子喜欢∫疯牛病 常见的装修风格上的 v 吃饭哈根达斯总统萨VＣD准备回国特
+        <view>0/300</view>
+     </textarea>
+     <button type="default">保存</button>
+</form>    
+</view>

@@ -1,20 +1,9 @@
-// 我的求职
+// 我的收藏
 Page({
   data:{
-    job:[{
+    collet:[{
       // 头像路径
-      head_icon:'/pages/my-job/img/head-icon.png',
-      title:'amazon英语运amazon英语运',
-      salary:'5-8k',
-      job_text:'深圳市宝安区安全生产监amazon英语运',
-      date:'12月5日',
-      full_time:'全职',
-      degree:'学历不限',
-      industry:'互联网／IT／电互联网／IT／电'
-    },
-    {
-      // 头像路径
-      head_icon:'/pages/my-job/img/head-icon.png',
+      head_icon:'/img/head-icon.png',
       title:'amazon英语运amazon英语运',
       salary:'5-8k',
       job_text:'深圳市宝安区安全生产监amazon英语运',

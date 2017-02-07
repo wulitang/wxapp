@@ -16,7 +16,6 @@
 .experience-message{
     font-size: 13px;
     color: #8b8b8b;
-    color: #8b8b8b;
     margin: 10rpx 0;
 }
 .experience-title{

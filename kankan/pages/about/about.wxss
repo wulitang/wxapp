@@ -3,9 +3,30 @@ page{
 }
 .about{
 	background: #FFF;
-	margin-bottom: 40px;
+	padding: 0 10px 30px 10px;
+}
+.about_title {
+	height: 113px;
+	border-bottom: solid 1px #ebebeb;
 }
 .about_title image{
 	width: 89px;
 	height: 59px;
+	margin-top: 15px;
+}
+.about_title{ 
+	text-align: center;
+}
+.about_title label{
+	margin-top: 5px;
+	width: 100%;
+	display: block;
+	float: left;
+	color: #a7a7a7;
+  font-size: 14px;
+}
+.about text{
+	font-size: 14px;
+	color: #272727;
+	font-family: "黑体";
 }

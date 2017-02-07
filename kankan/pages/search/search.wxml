@@ -1,1 +1,54 @@
-<view class="blank_b"></view>
+<!--搜索框-->
+<view class="search_frame">
+    <view class="search_area">常州</view>
+    <input type="text" placeholder="请输入职位或公司名"/>
+    <label></label>
+</view>
+<!--搜索列表-->
+<view class="search_list">
+  <view class="search_li">
+    <view class="search_left"><image src="images/position_03.jpg"></image></view>
+    <navigator url="/">
+        <label>UI设计师</label>
+        <label class="search_sh">上海名万</label>
+        <text>上海 外滩 1-3年 大专</text>
+        <text>天使轮 | 15-50人 | 金融.移动互联网</text>
+        <text class="search_rq">12月05日</text>
+        <view class="search_price">5-8k</view>
+    </navigator>
+  </view>
+ <view class="search_li">
+    <view class="search_left"><image src="images/position_03.jpg"></image></view>
+    <navigator url="/">
+        <label>UI设计师</label>
+        <label class="search_sh">上海名万</label>
+        <text>上海 外滩 1-3年 大专</text>
+        <text>天使轮 | 15-50人 | 金融.移动互联网</text>
+        <text class="search_rq">12月05日</text>
+        <view class="search_price">5-8k</view>
+    </navigator>
+  </view>
+   <view class="search_li">
+    <view class="search_left"><image src="images/position_03.jpg"></image></view>
+    <navigator url="/">
+        <label>UI设计师</label>
+        <label class="search_sh">上海名万</label>
+        <text>上海 外滩 1-3年 大专</text>
+        <text>天使轮 | 15-50人 | 金融.移动互联网</text>
+        <text class="search_rq">12月05日</text>
+        <view class="search_price">5-8k</view>
+    </navigator>
+  </view>
+   <view class="search_li">
+    <view class="search_left"><image src="images/position_03.jpg"></image></view>
+    <navigator url="/">
+        <label>UI设计师</label>
+        <label class="search_sh">上海名万</label>
+        <text>上海 外滩 1-3年 大专</text>
+        <text>天使轮 | 15-50人 | 金融.移动互联网</text>
+        <text class="search_rq">12月05日</text>
+        <view class="search_price">5-8k</view>
+    </navigator>
+  </view>
+  
+</view>

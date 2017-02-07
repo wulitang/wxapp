@@ -26,21 +26,8 @@ page{ background: #FFF;}
 	background: url(images/basic_11.png) no-repeat left center;	
 	background-size: 9px;
 }
-.basic .point:nth-of-type(5){
-	background: url(images/basic_15.png) no-repeat left center;	
-	background-size: 9px;
-}
-.basic .point:nth-of-type(6){
-	background: url(images/basic_17.png) no-repeat left center;	
-	background-size: 9px;
-}
-.basic .point:nth-of-type(7){
-	background: url(images/basic_20.png) no-repeat left center;	
-	background-size: 9px;
-}
-.basic .point:nth-of-type(8){
-	background: url(images/basic_23.png) no-repeat left center;	
-	background-size: 9px;
+.basic_j{
+	margin-top: 15px;
 }
 .point_x{
  height: 43px; 
@@ -76,5 +63,4 @@ page{ background: #FFF;}
  margin-left:5%;
  border-radius: 0px;
  color: #000000;
-
 }

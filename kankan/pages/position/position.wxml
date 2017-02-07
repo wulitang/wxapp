@@ -1,1 +1,52 @@
-<view class="blank_b"></view>
+<view  class="position_title">
+    <view class="position_user">
+        <image src="images/position_03.jpg"></image>
+        <label>网页设计师／UI设计师</label>
+        <text>五洲圣和（江苏）科技有限公司</text>
+    </view>
+    <view class="position_list">
+        <view>性别不限</view>
+        <view>学历不限</view>
+        <view>经验不限</view>
+        <view>全职</view>
+        <view>30岁以下</view>
+        <view>部门不限</view>
+    </view>
+    <view class="position_company">
+     <navigator url="/">
+       <label> 五洲圣和（江苏）科技有限公司</label>
+       <text>计算机硬件／软件 100-499人 |民营</text>
+     </navigator>
+    </view>
+</view>
+<!--职位描述-->
+<view class="position_description">
+    <view class="title">
+        职位描述
+    </view>
+    <label>【岗位职责】</label>
+    <text>根据网站项目需要，主要完成一下工作</text>
+    <text>1. 图片处理；</text>
+    <text>2. 资料添加；</text>
+    <text>3. 网站测试</text>
+    <text>4. 收集和设计网页素材</text>
+    <label>【任职要求】</label>
+    <text>1. 良好的美术功底、色彩感、审美观和创新能力（有手
+绘能力更佳）；</text>
+    <text>2. 熟练操作PS、AI、cdr等相关设计软件；</text>
+    <text>3. 对网页设计有浓厚的兴趣，对时尚和新鲜事物着迷；</text>
+    <text>4. 具备独立完成网站界面设计的能力；</text>
+    <text>5. 在校生或应届毕业生；</text>
+    <text>6. 有责任心，具有良好的沟通和团队协作能力 ；</text>
+    <text>7. 有成功的网站设计作品或联系作品；</text>
+    <view class="title">
+        联系方式
+    </view>
+    <view class="position_dh">企业设置不公开</view>
+    <view class="position_wz">江苏省-常州市-天宁区通江南路256-21号</view>
+</view>
+<!--确定-->
+<view class="position_fix">
+ <button>发送简历</button>
+ <view class="position_keep">收藏</view>
+</view>

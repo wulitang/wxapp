@@ -2,26 +2,30 @@
 page{
   font-family: "黑体";
   background: #f0eff5;
+ }
+.fl {
+    float: left;
 }
-.fl{
-  float: left;
+
+.fr {
+    float: right;
 }
-.fr{
-  float: right;
-}
+
 /*清除浮动*/
 .clearfix {
-zoom:1;
+    zoom: 1;
 }
+
 .clearfix:after {
-clear:both;
-content:'';
-display:block;
-width: 0;
-height: 0;
-visibility:hidden;
+    clear: both;
+    content: '';
+    display: block;
+    width: 0;
+    height: 0;
+    visibility: hidden;
 }
-.white-space{
+
+.white-space {
     text-overflow: ellipsis;
     white-space: nowrap;
     display: block;

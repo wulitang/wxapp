@@ -1,0 +1,29 @@
+<view class="me-top">
+    <image src="./me/touxiang.png"></image>
+    <view class="me-name">看看</view>
+    <view class="me-messgae white-space">生活怎样波折都好最要紧的是你依旧看得希...</view>
+</view>
+<view class="me-list">
+    <view class="me-min me-min-1">
+        <view class="me-icon">
+            <image src="./me/pen.png"></image>
+        </view>
+        <view class="me-title">简历编辑</view>
+    </view>
+    <view class="me-min me-min-2">
+        <view class="me-icon"><image src="./me/glasse.png"></image></view>
+        <view class="me-title">简历预览</view>
+    </view>
+    <view class="me-min me-min-3">
+        <view class="me-icon"><image src="./me/love.png"></image></view>
+        <view class="me-title">我的收藏</view>
+    </view>
+    <view class="me-min me-min-4">
+        <view class="me-icon"><image src="./me/zhi.png"></image></view>
+        <view class="me-title">我的求职</view>
+    </view>
+    <view class="me-min me-min-5">
+        <view class="me-icon"><image src="./me/about.png"></image></view>
+        <view class="me-title">我的求职</view>
+    </view>
+</view>

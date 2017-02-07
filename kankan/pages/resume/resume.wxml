@@ -1,0 +1,77 @@
+<!--基本信息头部-->
+<view class="resume_us">
+    <image src="images/resume_03.jpg"></image>
+    <view>史佳慧</view>
+    <text>生活怎样波折都好，最要紧的是你依是你依是你依</text>
+</view>
+<!--基本信息-->
+<view class="resume_jb">
+    <view class="resume_tie">基本信息</view>
+    <view><label>姓名</label><text>史佳慧</text></view>
+    <view><label>性别</label><text>女</text></view>
+    <view><label>生日</label><text>1994-07-21</text></view>
+    <view><label>最高学历</label><text>本科</text></view>
+    <view><label>所在城市</label><text>常州天宁区</text></view>
+    <view><label>联系电话</label><text>17314434463</text></view>
+    <view><label>联系邮箱</label><text>17314434463@163.com</text></view>
+</view>
+<!--教育经历-->
+<view class="resume_skill">
+     <view class="resume_tie">教育经历</view>
+     <view class="resume_nei">
+        <label>2016年毕业</label>
+        <label>南京示范大学 </label>
+        <text>研究生·汉语言文学</text>
+     </view>
+</view>
+<!--工作经历-->
+<view class="resume_jobs">
+     <view class="resume_tie">工作经历</view>
+     <view class="jobs_text">
+        <label>2016-02至2017-02</label>
+        <label>四海阳光／UI设计师  </label>
+        <text>参与用户研究及产品需求制定的整个过程，提出设计需求
+及用户体验目标，完成界面的信息构架、流程设计销售...</text>
+     </view>
+</view>
+<!--期望工作-->
+<view class="resume_expect">
+    <view class="resume_tie">期望工作</view>
+    <label>UI设计师</label>
+    <label>全职／上海／5k-10k</label>
+    <text>参与用户研究及产品需求制定的整个过程，提出设计需求及
+用户体验目标，完成界面的信息构架、流程设计吃不好地...</text>
+</view>
+<!--项目经历-->
+<view class="resume_project">
+     <view class="resume_tie">项目经历</view>
+     <view class="project_text">
+        <label> 2016-02至今</label>
+        <label>【项目名称】 看看 </label>
+        <label>【项目职责】 UI/UE设计</label>
+        <text>参与用户研究及产品需求制定的整个过程，提出设计需求
+及用户体验目标，完成界面的信息构架、流程设计销售...</text>
+     </view>
+</view>
+<!--技能评价-->
+<view class="skill">
+     <view class="resume_tie">技能评价</view>
+     <view class="skill_t">
+        <label>PS</label><text>精通</text>
+        <view class="skill_h">
+           <view class="skill_b" style=" width: 20%;"></view>
+        </view>
+     </view>
+     <view class="skill_t">
+        <label>AI</label><text>精通</text>
+        <view class="skill_h">
+           <view class="skill_b" style=" width: 30%;"></view>
+        </view>
+     </view>
+     <view class="skill_t">
+        <label>AE</label><text>掌握</text>
+        <view class="skill_h">
+           <view class="skill_b" style=" width: 40%;"></view>
+        </view>
+     </view>
+</view>

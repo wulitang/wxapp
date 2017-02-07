@@ -1,14 +1,28 @@
 {
-  "pages": [
+  "pages":[
     "pages/my-resume-after/my-resume-after",
     "pages/my-resume/my-resume",
     "pages/my-collet/my-collet",
     "pages/my-job/my-job",
+    "pages/message/message",
+    "pages/me/me",
+    "pages/skill3/skill3",
+    "pages/skill/skill",
     "pages/project/project",
+    "pages/index/index",
+    "pages/search/search",
+    "pages/basic/basic",
+    "pages/modproject/modproject",
+    "pages/modposition/modposition",
+    "pages/modeducation/modeducation",
+    "pages/modjobs/modjobs",
+    "pages/position/position",
+    "pages/about/about",
     "pages/education/education",
     "pages/experience/experience",
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/blank/blank",
+    "pages/resume/resume"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -38,13 +52,13 @@
         "text": "地图"
       },
       {
-        "pagePath": "pages/logs/logs",
+        "pagePath": "pages/message/message",
         "iconPath":"img/message.png",
         "selectedIconPath":"img/message1.png",
         "text": "消息"
       },
       {
-        "pagePath": "pages/logs/logs",
+        "pagePath": "pages/me/me",
         "iconPath":"img/me.png",
         "selectedIconPath":"img/me1.png",
         "text": "我的"

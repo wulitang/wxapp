@@ -1,0 +1,13 @@
+<view class="basic">
+<form>
+    <view class="point"><input name="user" value="" placeholder="公司名称" /></view>
+    <view class="point"><input name="user" value="" placeholder="你的职位" /></view>
+    <view class="point basic_j"><input name="user" value="" placeholder="入职时间" /></view>
+    <view class="point"><input name="user" value="" placeholder="离职时间" /></view>
+    <view class="point point_x">工作内容</view>
+    <textarea name="" cols="" rows="">
+        <view>0/300</view>
+     </textarea>
+     <button type="default">保存</button>
+</form>    
+</view>

@@ -1,0 +1,80 @@
+page{ background: #FFF;}
+.basic input{
+	 border-bottom: 1px #eeeeee solid;
+	 height: 43px;
+	 padding-left: 20px;
+	 font-size: 15px;
+	 line-height: 43px;
+	 color: #888888;
+}
+.basic .point{ 
+	margin-left: 15px;
+}
+.basic .point:nth-of-type(1){
+	background: url(images/basic_03.png) no-repeat left center;	
+	background-size: 9px;
+}
+.basic .point:nth-of-type(2){
+	background: url(images/basic_06.png) no-repeat left center;	
+    background-size: 9px;
+}
+.basic .point:nth-of-type(3){
+	background: url(images/basic_08.png) no-repeat left center;	
+	background-size: 9px;
+}
+.basic .point:nth-of-type(4){
+	background: url(images/basic_11.png) no-repeat left center;	
+	background-size: 9px;
+}
+.basic .point:nth-of-type(5){
+	background: url(images/basic_15.png) no-repeat left center;	
+	background-size: 9px;
+}
+.basic .point:nth-of-type(6){
+	background: url(images/basic_17.png) no-repeat left center;	
+	background-size: 9px;
+}
+.basic .point:nth-of-type(7){
+	background: url(images/basic_20.png) no-repeat left center;	
+	background-size: 9px;
+}
+.basic .point:nth-of-type(8){
+	background: url(images/basic_23.png) no-repeat left center;	
+	background-size: 9px;
+}
+.point_x{
+ height: 43px; 
+ line-height: 43px; 
+ font-size: 15px;
+ padding-left: 20px;
+ color: #888888;
+}
+.basic textarea{
+  background: #eeeeee;
+  height: 77px;
+  width: 92%;
+  border-radius: 3px;
+  position:  relative;
+  padding-left: 10px;
+  padding-top: 4px;
+  font-size: 14px;
+  color: #888888;
+  margin: 0 10px;
+}
+.basic textarea view{
+  position:absolute;
+  right: 5px;
+  bottom: 5px;
+  font-size: 12px;
+  color: #a0a0a0;
+}
+.basic button{
+ margin-top: 26px;
+ background: #f2ba41;
+ width: 90%;
+ float: left;
+ margin-left:5%;
+ border-radius: 0px;
+ color: #000000;
+
+}

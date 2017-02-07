@@ -1,21 +1,88 @@
-/**index.wxss**/
-.userinfo {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+page{
+    background: #f0eff5;
+}
+.slide-image {
+    height: 100%;
+    width: 100%;
 }
 
-.userinfo-avatar {
-  width: 128rpx;
-  height: 128rpx;
-  margin: 20rpx;
-  border-radius: 50%;
+.index-icon {
+    background: #fff;
+    padding: 25rpx 20rpx;
+    margin-bottom: 20rpx;
 }
 
-.userinfo-nickname {
-  color: #aaa;
+.index-icon navigator {
+    display: inline-block;
+    width: 25%;
+    font-size: 14px;
+    color: #000;
+    text-align: center;
 }
-
-.usermotto {
-  margin-top: 200px;
+.index-icon image{
+    display: block;
+    width: 69rpx;
+    height: 64rpx;
+    margin: 0 auto 10rpx auto;
+}
+.index-min{
+    background: #fff;
+    padding:0 20rpx;
+}
+.index-list{
+    padding:20rpx 0;
+    overflow: hidden;
+}
+.list-image{
+    width:110rpx;
+    height:110rpx;
+    float: left;
+}
+.list-image image{
+    width: 110rpx;
+    height: 110rpx;
+    border-radius: 8rpx;
+}
+.white-space{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    overflow: hidden;
+}
+.list-title{
+    font-size:15px;
+    color:#000;
+    font-weight:700;
+    width:80%;
+    display:inline-block;
+}
+.list-map{
+    width:80%;
+    display:inline-block;
+}
+.list-time{
+    float: right;
+    width: 20%;
+}
+.list-money{
+    font-size: 14px;
+    color: #fc571e;
+    width: 20%;
+    display: inline-block;
+}
+.list-center{
+    font-size: 13px;
+    color: #000;
+    margin:10rpx 0;
+}
+.list-min{
+    float: left;
+    width: 555rpx;
+    margin-left:45rpx;
+    border-bottom: 1px solid #e2e2e2;
+}
+.list-bottom,.list-message{
+    font-size: 12px;
+    color: #888888;
+    margin:10rpx 0;
 }

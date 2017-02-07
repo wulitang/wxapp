@@ -1,10 +1,96 @@
-<!--index.wxml-->
-<view class="container">
-  <view  bindtap="bindViewTap" class="userinfo">
-    <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
-    <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+<swiper indicator-dots="true" autoplay="true" interval="4000" duration="600" style="height:{{systemInfo.windowWidth/2}}px">
+  <swiper-item>
+    <image src="./image/1.png" class="slide-image" width="750" />
+  </swiper-item>
+  <swiper-item>
+    <image src="./image/1.png" class="slide-image" width="750" />
+  </swiper-item>
+  <swiper-item>
+    <image src="./image/1.png" class="slide-image" width="750" />
+  </swiper-item>
+</swiper>
+<view class="index-icon">
+  <navigator class="navigator-1" url="">
+    <image src="./image/icon1.png"></image>
+    普工／技工
+  </navigator>
+  <navigator url="" class="navigator-2">
+    <image src="./image/icon4.png"></image>
+    服务业</navigator>
+  <navigator url="" class="navigator-3">
+    <image src="./image/icon3.png"></image>
+    闪电急招</navigator>
+  <navigator url="" class="navigator-4">
+    <image src="./image/icon2.png"></image>
+    闪电急招</navigator>
+</view>
+<view class="index-min">
+  <view class="index-list">
+    <view class="list-image">
+      <image src="./image/touxiang.png"></image>
+    </view>
+    <view class="list-min">
+      <view class="list-top">
+        <view class="list-title white-space">UI设计师</view>
+        <view class="list-money">6-10k</view>
+      </view>
+      <view class="list-center">上海名迈</view>
+      <view class="list-bottom">
+        <view class="list-map">上海 外滩 1-3年 大专</view>
+        <view class="list-time">12月05日</view>
+      </view>
+      <view class="list-message white-space">天使轮 | 15-50人 | 金融.移动互联网</view>
+    </view>
   </view>
-  <view class="usermotto">
-    <text class="user-motto">{{motto}}</text>
-  </view>
+    <view class="index-list">
+        <view class="list-image">
+            <image src="./image/touxiang.png"></image>
+        </view>
+        <view class="list-min">
+            <view class="list-top">
+                <view class="list-title white-space">UI设计师</view>
+                <view class="list-money">6-10k</view>
+            </view>
+            <view class="list-center">上海名迈</view>
+            <view class="list-bottom">
+                <view class="list-map">上海 外滩 1-3年 大专</view>
+                <view class="list-time">12月05日</view>
+            </view>
+            <view class="list-message white-space" >天使轮 | 15-50人 | 金融.移动互联网</view>
+        </view>
+    </view>
+    <view class="index-list">
+        <view class="list-image">
+            <image src="./image/touxiang.png"></image>
+        </view>
+        <view class="list-min">
+            <view class="list-top">
+                <view class="list-title white-space">UI设计师</view>
+                <view class="list-money">6-10k</view>
+            </view>
+            <view class="list-center">上海名迈</view>
+            <view class="list-bottom">
+                <view class="list-map">上海 外滩 1-3年 大专</view>
+                <view class="list-time">12月05日</view>
+            </view>
+            <view class="list-message white-space">天使轮 | 15-50人 | 金融.移动互联网</view>
+        </view>
+    </view>
+    <view class="index-list">
+        <view class="list-image">
+            <image src="./image/touxiang.png"></image>
+        </view>
+        <view class="list-min">
+            <view class="list-top">
+                <view class="list-title white-space">UI设计师</view>
+                <view class="list-money">6-10k</view>
+            </view>
+            <view class="list-center">上海名迈</view>
+            <view class="list-bottom">
+                <view class="list-map">上海 外滩 1-3年 大专</view>
+                <view class="list-time">12月05日</view>
+            </view>
+            <view class="list-message white-space">天使轮 | 15-50人 | 金融.移动互联网</view>
+        </view>
+    </view>
 </view>

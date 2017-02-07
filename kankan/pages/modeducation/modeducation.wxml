@@ -1,0 +1,9 @@
+<view class="basic">
+<form>
+    <view class="point"><input name="user" value="" placeholder="学校名称" /></view>
+    <view class="point"><input name="user" value="" placeholder="所学专业" /></view>
+    <view class="point basic_j"><input name="user" value="" placeholder="毕业时间" /></view>
+    <view class="point"><input name="user" value="" placeholder="学历" /></view>
+     <button type="default">保存</button>
+</form>    
+</view>

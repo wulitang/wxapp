@@ -6,13 +6,20 @@
     "pages/skill/skill",
     "pages/project/project",
     "pages/index/index",
+    "pages/search/search",
+    "pages/basic/basic",
+    "pages/modproject/modproject",
+    "pages/modposition/modposition",
+    "pages/modeducation/modeducation",
+    "pages/modjobs/modjobs",
+    "pages/position/position",
     "pages/about/about",
     "pages/my-job/my-job",
     "pages/education/education",
     "pages/experience/experience",
     "pages/logs/logs",
     "pages/blank/blank",
-    "pages/basic/basic",
+    
     "pages/resume/resume"
   ],
   "window": {

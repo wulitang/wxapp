@@ -1,0 +1,101 @@
+
+<!--我的简历编辑前-->
+<view class="resume-wrap">
+  <view class="resume-title">
+    <image src="img/circle1.png"></image>求职头像</view>
+  <view class="icon-wrap">
+    <image src="img/h-icon.png"></image>
+    <text>点击更换</text>
+  </view>
+  <view class="resume-title">
+    <image src="img/circle2.png"></image>
+    <text>基本信息</text>
+    <text class="must">必填</text>
+  </view>
+  <view class="personal-info clearfix">
+    <view class="first-line clearfix line">
+      <text class="info-column fl">姓名</text>
+      <text class="fl">Chris</text>
+      <view class="editor fr">
+        <image src="img/pencel.png"></image>
+        <text>编辑</text>
+      </view>
+    </view>
+    <view class="line">
+      <text class="info-column fl">性别</text>
+      <input type="text" class="write fr" placeholder="请填写" placeholder-style="font-family:黑体;font-size:28rpx;" />
+    </view>
+    <view class="line">
+      <text class="info-column fl">生日</text>
+      <input type="text" class="write fr" placeholder="请填写" placeholder-style="font-family:黑体;font-size:28rpx;"  />
+    </view>
+    <view class="line">
+      <text class="info-column fl">最高学历</text>
+      <input type="text" class="write fr" placeholder="请填写" placeholder-style="font-family:黑体;font-size:28rpx;"  />
+    </view>
+    <view class="line">
+      <text class="info-column fl">所在城市</text>
+      <input type="text" class="write fr" placeholder="请填写"  placeholder-style="font-family:黑体;font-size:28rpx;" />
+    </view>
+    <view class="line">
+      <text class="info-column fl">联系电话</text>
+      <input type="text" class="write fr" placeholder="请填写" placeholder-style="font-family:黑体;font-size:28rpx;"  />
+    </view>
+    <view class="line">
+      <text class="info-column fl">联系邮箱</text>
+      <input type="text" class="write fr" placeholder="请填写" placeholder-style="font-family:黑体;font-size:28rpx;"  />
+    </view>
+    <view class="line">
+      <text class="info-column fl">一句话介绍</text>
+      <input type="text" class="write fr" placeholder="请填写" placeholder-style="font-family:黑体;font-size:28rpx;"  />
+    </view>
+  </view>
+  <view class="resume-title">
+    <image src="img/circle3.png"></image>
+    <text>教育经历</text>
+    <text class="must">必填</text>
+  </view>
+  <view class="add-wrap">
+    <view>
+      <image class="add" src="img/add.png"></image>添加教育经历</view>
+    <text class="tips">请从最高学历说起</text>
+  </view>
+  <view class="resume-title">
+    <image src="img/circle4.png"></image>
+    <text>工作经历</text>
+    <text class="must">必填</text>
+  </view>
+  <view class="add-wrap">
+    <view>
+      <image class="add" src="img/add.png"></image>添加工作经历</view>
+    <text class="tips">请从最近的一份工作说起</text>
+  </view>
+  <view class="resume-title">
+    <image src="img/circle5.png"></image>
+    <text>期望工作</text>
+    <text class="must">必填</text>
+  </view>
+  <view class="add-wrap">
+    <view>
+      <image class="add" src="img/add.png"></image>添加期望工作</view>
+    <text class="tips">选择一份真正适合自己的工作</text>
+  </view>
+  <view class="resume-title">
+    <image src="img/circle6.png"></image>
+    <text>项目经历</text>
+  </view>
+  <view class="add-wrap">
+    <view>
+      <image class="add" src="img/add.png"></image>添加项目经历</view>
+    <text class="tips">请着重介绍工作以外的项目经历</text>
+  </view>
+  <view class="resume-title">
+    <image src="img/circle7.png"></image>
+    <text>技能评价</text>
+  </view>
+  <view class="add-wrap last-wrap">
+    <view>
+      <image class="add" src="img/add.png"></image>展示我的技能</view>
+    <text class="tips">编程语言，生产工具？凡事你所擅长的</text>
+  </view>
+</view>

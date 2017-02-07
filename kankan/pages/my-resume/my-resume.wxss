@@ -1,0 +1,106 @@
+/*我的简历前*/
+.resume-wrap{
+    margin: auto 20rpx;
+}
+.resume-title image{
+    width: 17rpx;
+    height: 15rpx;
+    margin-right: 25rpx;
+}
+.resume-title{
+    font-size: 30rpx;
+    color: #242424;
+    height: 70rpx;
+    line-height: 70rpx;
+}
+.icon-wrap{
+    width: 100%;
+    height: 180rpx;
+    background: #fff;
+    text-align: center;
+}
+.icon-wrap image{
+    width: 92rpx;
+    height: 92rpx;
+    display: block;
+    margin:0 auto 10rpx auto;
+    padding-top: 20rpx;
+}
+.icon-wrap text{
+    font-size: 26rpx;
+    color: #888;
+}
+.must{
+    font-size: 16rpx;
+    color: #ea0202;
+    width: 55rpx;
+    height: 26rpx;
+    line-height: 26rpx;
+    text-align: center;
+    border: 1px solid #ea0202;
+    border-radius: 16rpx;
+    margin-left: 25rpx;
+    vertical-align: text-top;
+}
+.resume-title text{
+    display: inline-block;
+}
+/*基本信息*/
+.personal-info{
+    color: #2f2f2f;
+    font-size: 28rpx;
+    background: #fff;
+    padding: 10rpx 0;
+}
+.info-column{
+    width: 25%;
+}
+.first-line input{
+    width: 60%;
+    vertical-align: bottom;
+    height: 60rpx;
+    line-height: 60rpx;
+}
+.editor image{
+    width: 28rpx;
+    height: 28rpx;
+}
+.editor{
+    width: 15%;
+    color: #f3bf4f;
+}
+.info-column{
+    text-indent: 25rpx;
+}
+.write{
+    width: 75%;
+}
+.line,.line input{
+    height: 60rpx;
+    line-height: 60rpx;
+}
+/*教育经历*/
+.add-wrap{
+    border: 1px solid #f3bf4f;
+    height: 160rpx;
+    background: #fffbf3;
+    color: #f3bf4f;
+    font-size: 29rpx;
+    text-align: center;
+}
+.add{
+    width: 34rpx;
+    height: 34rpx;
+    margin-right: 25rpx;
+    vertical-align: bottom;
+}
+.tips{
+    font-size: 22rpx;
+    color: #b7b7b7;
+}
+.add-wrap view{
+    margin: 40rpx auto 20rpx auto;
+}
+.last-wrap{
+    margin-bottom: 80rpx;
+}

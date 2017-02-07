@@ -1,6 +1,6 @@
 /**app.wxss**/
 page{
-  font-family: "微软雅黑";
+  font-family: "黑体";
   background: #f0eff5;
 }
 .fl{
@@ -27,3 +27,4 @@ visibility:hidden;
     display: block;
     overflow: hidden;
 }
+

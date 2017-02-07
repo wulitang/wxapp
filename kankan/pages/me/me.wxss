@@ -1,0 +1,54 @@
+.me-top{
+    height: 352rpx;
+    background: #f3bf4f;
+}
+.me-top image{
+    width: 155rpx;
+    height: 155rpx;
+    border-radius: 80rpx;
+    padding: 30rpx auto;
+    margin: auto;
+    display: block;
+}
+.me-name{
+    text-align: center;
+    font-size: 16px;
+    color: #000000;
+    margin: 35rpx 0;
+}
+.me-messgae{
+    font-size: 13px;
+    color: #906302;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+.me-min{
+    height: 90rpx;
+    background: #fff;
+    color: #000;
+    font-size: 16px;
+    line-height: 90rpx;
+}
+.me-min image{
+    width: 40rpx;
+    height: 32rpx;
+    display: block;
+    margin: 30rpx auto;
+}
+.me-icon{
+    width: 110rpx;
+    height: 90rpx;
+    float: left;
+}
+.me-min-2,.me-min-4{
+    margin-bottom: 17rpx;
+}
+.me-title{
+    height: 90rpx;
+    width: 640rpx;
+    float: right;
+}
+.me-min-1 .me-title,.me-min-3 .me-title{
+    border-bottom: 1px solid #e6e6e6;
+}

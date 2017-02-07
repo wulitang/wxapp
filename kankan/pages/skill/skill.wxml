@@ -1,0 +1,8 @@
+<view class="input" bindtap="show">添加项目技能</view>
+<view class="window " wx:if="{{show}}">
+    <view class="min">
+        <view class="title">添加技能</view>
+        <input class="skill-input" placeholder="请输入30字以内的技能名称"/>
+        <view class="skill-button" bindtap="hide">确定</view>
+    </view>
+</view>

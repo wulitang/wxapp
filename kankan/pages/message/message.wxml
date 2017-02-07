@@ -1,0 +1,21 @@
+<view class="min">
+    <view class="message-list">
+        <view class="message-time"> <image src="./image/dui.png"></image> <view class="white-space">2017-01-16</view></view>
+        <view class="message-icon">您的简历被浏览<em>1</em>次</view>
+        <view class="message-map">  <image src="./image/quan.png"></image><view class="white-space">五洲圣和（江苏）科技有限公司</view></view>
+    </view>
+</view>
+<view class="min">
+    <view class="message-list">
+        <view class="message-time"> <image src="./image/dui.png"></image> <view class="white-space">2017-01-16</view></view>
+        <view class="message-icon">您的简历被浏览<em>1</em>次</view>
+    </view>
+</view>
+<view class="min">
+    <view class="message-list">
+        <view class="message-time"> <image src="./image/dui.png"></image> <view class="white-space">2017-01-16</view></view>
+        <view class="message-icon">您的简历被浏览<em>1</em>次</view>
+        <view class="message-map">  <image src="./image/quan.png"></image><view class="white-space">五洲圣和（江苏）科技有限公司</view></view>
+        <view class="message-map">  <image src="./image/quan.png"></image><view class="white-space">五洲圣和（江苏）科技有限公司</view></view>
+    </view>
+</view>

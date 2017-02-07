@@ -1,0 +1,52 @@
+
+.input{
+    background: #f3bf4f;
+    font-size:16px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    color: #000;
+    width: 90%;
+    margin: 20px auto;
+}
+.window{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.15);
+    z-index: 10;
+    top:0;
+}
+.min{
+    background: #fff;
+    width: 610rpx;
+    height:300rpx;
+    position: absolute;
+    top:50%;
+    left:50%;
+    margin-left: -340rpx;
+    margin-top:-270rpx;
+    border-radius: 10rpx;
+    padding: 40rpx;
+}
+.title{
+    text-align: center;
+    font-size: 19px;
+    color: #000000;
+    margin-bottom: 40rpx;
+}
+.skill-input{
+    font-size: 13px;
+    color: #f3bf4f;
+}
+.skill-button{
+    width: 342rpx;
+    height: 90rpx;
+    margin: 29px auto;
+    display: block;
+    background:#f3bf4f;
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    line-height: 90rpx;
+}

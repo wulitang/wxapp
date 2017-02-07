@@ -1,0 +1,11 @@
+page{
+  background: #f0eff5;
+}
+.about{
+	background: #FFF;
+	margin-bottom: 40px;
+}
+.about_title image{
+	width: 89px;
+	height: 59px;
+}

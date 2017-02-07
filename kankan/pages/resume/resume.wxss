@@ -1,0 +1,249 @@
+page{
+     background: #f0eff5;
+     font-family: "黑体";
+}
+view,text{font-family: "黑体";}
+.resume_us{
+  height: 184px;
+  background: #f3bf4f;
+  width: 100%;
+  text-align: center;
+}
+.resume_us image{
+ border-radius: 50%;
+ width: 70px;
+ height: 70px;
+ margin-top: 24px;
+}
+.resume_us view{
+ margin-top: 10px;
+ overflow:hidden;
+ width: 100%;
+ margin-bottom: 10px;
+ font-size: 17px;
+ color: #000000;
+
+}
+.resume_us text{
+   color: #865d04;
+   font-size: 14px;
+   width: 245px;
+   height: 16px;
+   white-space: nowrap;
+   text-overflow: ellipsis;
+   overflow: hidden;
+   display: block;
+   margin-left: 16%;
+}
+@media screen and (max-width: 370px) {
+.resume_us text{ margin-left: 14%;}
+}
+@media screen and (min-width:380px){
+.resume_us text{margin-left: 20%;}
+}
+.resume_jb{
+ background: #FFF;
+ height: 276px;
+ width: 100%;
+ margin-top: 18px;
+ padding-left: 15px;
+}
+.resume_tie{
+  height: 49px !important;
+  border-bottom: solid 1px #ebebeb;
+  line-height: 49px;
+  font-size: 17px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+.resume_jb view{
+ overflow: hidden;
+ width: 100%;
+ height: 30px;
+ 
+}
+.resume_jb label{
+ width: 87px;
+ float: left;
+ font-size: 14px;
+ color: #2f2f2f;
+ line-height: 30px;
+ 
+}
+.resume_jb text{
+  font-size:14px;
+  color: #2f2f2f;
+  line-height: 30px;
+}
+.resume_skill{
+  background: #FFF;
+  height: 152px;
+  margin-top:18px;
+  padding-left: 15px; 
+}
+/*教育经历*/
+.resume_nei{
+  background:url(images/resume_07.jpg) no-repeat left bottom;
+  background-size: 11px;
+  height:92px;
+  padding-left: 24px;
+}
+.resume_nei label{
+  color: #2f2f2f;
+  font-size: 14px;
+  width: 100%;
+  overflow: hidden;
+  display: block;
+  float: left;
+   margin: 4px 0;
+   font-weight: 700;
+}
+.resume_nei text{
+  color: #8b8b8b;
+  font-size: 14px;
+  margin-top: 10px;
+  width: 100%;
+  display: block;
+  float: left;
+}
+.resume_jobs{
+  background: #FFF;
+  margin-top: 18px;
+  padding-left: 15px;
+
+}
+/*工作经历*/
+.jobs_text{
+background:url(images/resume_10.jpg) no-repeat left bottom;
+  background-size: 11px;
+  height:110px;
+  padding-left: 24px;
+}
+.jobs_text label{
+  color: #2f2f2f;
+  font-size: 14px;
+  width: 100%;
+  overflow: hidden;
+  display: block;
+  float: left;
+  margin: 4px 0;
+  font-weight: 800;
+}
+.jobs_text text{
+  color: #8b8b8b;
+  width: 92%;
+  display: block;
+  float: left;
+  font-size: 14px;
+  margin-top: 10px;
+  line-height: 20px;
+  height: 37px;
+  overflow: hidden;
+}
+/*期望工作*/
+.resume_expect{
+  background: #fff;
+  margin-top: 18px;
+  padding-left: 15px;
+  height: 170px;
+}
+.resume_expect label{
+  font-size: 14px;
+  color: #2f2f2f;
+  width: 100%;
+  display: block;
+  float: left;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.resume_expect text{
+  font-size: 13px;
+  color: #8b8b8b;
+  line-height: 18px;
+  max-height: 50px;
+  overflow: hidden;
+  display: block;
+  width: 100%;
+  
+}
+/*项目经历*/
+.resume_project{
+  background: #fff;
+  margin-top: 18px;
+  padding-left: 15px;
+  height: 192px;
+}
+.project_text{
+background:url(images/resume_12.jpg) no-repeat left 10px;
+  background-size: 11px;
+  height:132px;
+  padding-left: 24px;
+}
+.project_text label{
+  color: #2f2f2f;
+  font-size: 14px;
+  width: 100%;
+  overflow: hidden;
+  display: block;
+  float: left;
+  margin: 4px 0;
+  font-weight: 800;
+}
+.project_text text{
+  color: #8b8b8b;
+ width: 92%;
+  display: block;
+  float: left;
+  font-size: 14px;
+  margin-top: 10px;
+  line-height: 20px;
+  height: 37px;
+  overflow: hidden;
+}
+/*技能评价*/
+.skill{
+   background: #FFF;
+   margin-top: 18px;
+   height: 202px;
+   margin-bottom: 40px;
+   padding-left: 15px;
+}
+.skill_t {
+   padding-right: 10px;
+   line-height: 24px;
+   margin-bottom: 15px; 
+  }
+.skill_t label{
+  font-size: 14px;
+  float: left;
+  color: #2f2f2f;
+}
+.skill_t text{
+ font-size: 14px;
+ float: right;
+ color: #8b8b8b;
+}
+.skill_h {  
+  background: #ebebeb;
+  border-radius: 10px;
+  width: 100%;
+  height: 8px;
+  overflow: hidden;
+
+}
+.skill_b{
+  
+ position: relative;
+}
+.skill_b::before{
+content: '';
+position: absolute;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+z-index: 1;
+height: 8px;
+background:#f3bf4f;
+border-radius: 10px;
+}

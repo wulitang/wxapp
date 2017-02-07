@@ -1,0 +1,16 @@
+<view class="basic">
+<form>
+    <view class="point"><input name="user" value="" placeholder="姓名" /></view>
+    <view class="point"><input name="user" value="" placeholder="性别" /></view>
+    <view class="point"><input name="user" value="" placeholder="生日" /></view>
+    <view class="point"><input name="user" value="" placeholder="最高学历" /></view>
+    <view class="point"><input name="user" value="" placeholder="所在城市" /></view>
+    <view class="point"><input name="user" value="" placeholder="联系电话" /></view>
+    <view class="point"><input name="user" value="" placeholder="联系邮箱" /></view>
+    <view class="point point_x">一句话介绍自己（选填）</view>
+    <textarea name="" cols="" rows="">
+        <view>0/29</view>
+     </textarea>
+     <button type="default">保存</button>
+</form>    
+</view>

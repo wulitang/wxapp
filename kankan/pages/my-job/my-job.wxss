@@ -1,0 +1,66 @@
+/*我的求职*/
+.job{
+  margin-top: 10px; 
+}
+.job image{
+    width:110rpx;
+    height: 110rpx;
+    border-radius: 5px;
+    margin-top: 24rpx;
+    margin-left: 30rpx;
+}
+.job-con{
+    margin-left: 45rpx;
+    width: 570rpx;
+    border-bottom: 1px solid #f0eff5;
+}
+.job-title,.salary{
+    font-size: 30rpx;
+    font-weight: bold;
+}
+.salary{
+    color: #fc571e;
+    margin-right: 30rpx;
+}
+.job-text{
+    font-size: 26rpx;
+}
+.date{
+    margin-right: 30rpx;
+}
+.gray-c{
+    font-size: 24rpx;
+    color: #989898;
+}
+.full-time image{
+    width: 26rpx;
+    height: 27rpx;
+    margin-right: 15rpx;
+}
+.degree image{
+    width: 32rpx;
+    height: 24rpx;
+    margin-right: 15rpx;
+}
+.trd-line view{
+    display: inline-block;
+}
+.full-time{
+    width: 25%;
+}
+.degree{
+    width: 35%;
+}
+.industry{
+    width: 40%;
+}
+.trd-line view{
+    display: inline-block;
+}
+.trd-line{
+    margin-bottom: 10rpx;
+}
+.line text{
+    height: 40rpx;
+    line-height: 40rpx;
+}

@@ -1,0 +1,21 @@
+<!--我的求职-->
+<view class="con-wrap">
+    <navigator class="job" url="url" wx:for="{{job}}">
+        <image src="{{item.head_icon}}" class="fl"></image>
+        <view class="job-con fl">
+            <view class="line clearfix">
+                <text class="job-title fl">{{item.title}}</text>
+                <text class="salary fr">{{item.salary}}</text>
+            </view>
+            <view class="line clearfix">
+                <text class="job-text fl">{{item.job_text}}</text>
+                <text class="date gray-c fr">{{item.date}}</text>
+            </view>
+            <view class="trd-line line clearfix">
+                <view class="full-time gray-c"><image src="img/clock.png"></image>{{item.full_time}}</view>
+                <view class="degree gray-c"><image src="img/degree.png"></image>{{item.degree}}</view>
+                <view class="industry gray-c">{{item.industry}}</view>
+            </view>
+        </view>
+    </navigator>
+</view>

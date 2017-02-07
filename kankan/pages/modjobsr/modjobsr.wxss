@@ -2,13 +2,34 @@ page{ background: #FFF;}
 .basic input{
 	 border-bottom: 1px #eeeeee solid;
 	 height: 43px;
-	 padding-left: 20px;
+	 padding-left: 85px;
 	 font-size: 15px;
 	 line-height: 43px;
 	 color: #888888;
+	 text-align: right;
+	 padding-right: 5%;
+}
+.basic label{
+	width:85px;
+	display: block;
+	float: left;
+	height: 43px;
+	color: #000000;
+	font-size: 14px;
+	line-height: 43px; 
+	text-align: left;
+	left: 20px;
+	top: 0px;
+	position: absolute;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
 }
 .basic .point{ 
 	margin-left: 15px;
+	position: relative;
+	overflow: hidden;
 }
 .basic .point:nth-of-type(1){
 	background: url(images/basic_03.png) no-repeat left center;	
@@ -69,6 +90,6 @@ page{ background: #FFF;}
  margin-left:5%;
  border-radius: 0px;
  color: #000000;
-  height: 35px;
+ height: 35px;
  line-height: 35px;
 }

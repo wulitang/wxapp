@@ -1,13 +1,14 @@
 {
   "pages":[
+    "pages/modbasic/modbasic",
+     "pages/modjobsr/modjobsr",
+    
     "pages/search/search",
     "pages/basic/basic",
     "pages/modproject/modproject",
     "pages/modposition/modposition",
     "pages/modeducation/modeducation",
     "pages/modjobs/modjobs",
-
-    
     "pages/position/position",
     "pages/about/about",
     "pages/my-job/my-job",

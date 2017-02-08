@@ -1,0 +1,17 @@
+<view class="basic">
+<form>
+    <view class="point"><label>姓名</label><input name="user" value="" placeholder="史佳慧" /></view>
+    <view class="point"><label>性别</label><input name="user" value="" placeholder="女" /></view>
+    <view class="point"><label>生日</label><input name="user" value="" placeholder="1994-07-20" /></view>
+    <view class="point"><label>最高学历</label><input name="user" value="" placeholder="本科" /></view>
+    <view class="point"><label>所在城市</label><input name="user" value="" placeholder="深圳" /></view>
+    <view class="point"><label>联系电话</label><input name="user" value="" placeholder="17314434463" /></view>
+    <view class="point"><label>联系邮箱</label> <input name="user" value="" placeholder="17314434463@163.com" /></view>
+    <view class="point point_x">一句话介绍自己（选填）</view>
+    <textarea name="" cols="" rows="">
+    看现货SF不上辅导班 v 能保证仙女们才能拿到你曾经
+        <view>0/29</view>
+     </textarea>
+     <button type="default">保存</button>
+</form>    
+</view>

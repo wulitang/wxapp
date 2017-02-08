@@ -1,5 +1,7 @@
 {
   "pages": [
+    "pages/skill3/skill3",
+    "pages/my-collet/my-collet",
     "pages/modjob2/modjob2",
     "pages/modproject2/modproject2",
     "pages/modeducation2/modeducation2",
@@ -13,7 +15,6 @@
     "pages/my-resume/my-resume",
     "pages/message/message",
     "pages/me/me",
-    "pages/skill3/skill3",
     "pages/skill/skill",
     "pages/project/project",
     "pages/index/index",

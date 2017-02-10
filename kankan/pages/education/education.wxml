@@ -1,16 +1,12 @@
 <view class="experience-min">
     <view class="experience-top">
-        <view class="experience-title white-space">
-            2016年毕业
-        </view>
+        <view class="experience-title white-space">2016年毕业</view>
         <view class="experience-change">
             <image src="../../img/pen.png"></image>
             编辑
         </view>
     </view>
     <view class="experience-center white-space">2016年毕业</view>
-    <view class="experience-message white-space">
-        研究生·汉语言文学
-    </view>
+    <view class="experience-message white-space">研究生·汉语言文学</view>
 </view>
 <view class="input">添加教育经历 </view>

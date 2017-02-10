@@ -39,8 +39,8 @@ page{
     float: left;
 }
 .list-image image{
-    width: 110rpx;
-    height: 110rpx;
+    width: 120rpx;
+    height: 120rpx;
     border-radius: 8rpx;
 }
 .white-space{
@@ -57,12 +57,12 @@ page{
     display:inline-block;
 }
 .list-map{
-    width:80%;
+    width:76%;
     display:inline-block;
 }
 .list-time{
     float: right;
-    width: 20%;
+    width: 23%;
 }
 .list-money{
     font-size: 14px;

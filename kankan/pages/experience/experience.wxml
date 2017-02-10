@@ -1,16 +1,12 @@
 <view class="experience-min">
     <view class="experience-top">
-        <view class="experience-title white-space">
-            2016.12-2017.01
-        </view>
+        <view class="experience-title white-space">2016.12-2017.01</view>
         <view class="experience-change">
             <image src="../../img/pen.png"></image>
             编辑
         </view>
     </view>
     <view class="experience-center white-space">四海阳光／UE设计师</view>
-    <view class="experience-message white-space">
-        主要工作内容在这里以简略的形式展现你自己能减肥你主要工作内容在这里以简略的形式展现你自己能减肥你
-    </view>
+    <view class="experience-message white-space">主要工作内容在这里以简略的形式展现你自己能减肥你主要工作内容在这里以简略的形式展现你自己能减肥你</view>
 </view>
 <view class="input">添加工作经历 </view>

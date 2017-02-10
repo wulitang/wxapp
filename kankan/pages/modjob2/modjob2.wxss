@@ -76,3 +76,9 @@ textarea{
     bottom:8px;
     right: 8px;
 }
+.edu-name{
+    width: 30%;
+}
+.edu-input{
+    width: 60%
+}

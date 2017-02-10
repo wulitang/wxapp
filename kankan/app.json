@@ -1,5 +1,9 @@
 {
   "pages": [
+    "pages/modjob2/modjob2",
+    "pages/modproject2/modproject2",
+    "pages/modproject/modproject",
+    "pages/modeducation2/modeducation2",
     "pages/position/position",
     "pages/skill3/skill3",
     "pages/my-job/my-job",
@@ -9,9 +13,6 @@
     "pages/education/education",
     "pages/index/index",
     "pages/my-collet/my-collet",
-    "pages/modjob2/modjob2",
-    "pages/modproject2/modproject2",
-    "pages/modeducation2/modeducation2",
     "pages/modbasic/modbasic",
     "pages/modjobsr/modjobsr",
     "pages/message/message",
@@ -20,7 +21,6 @@
     "pages/project/project",
     "pages/search/search",
     "pages/basic/basic",
-    "pages/modproject/modproject",
     "pages/modposition/modposition",
     "pages/modeducation/modeducation",
     "pages/modjobs/modjobs",

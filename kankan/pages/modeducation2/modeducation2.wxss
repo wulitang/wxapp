@@ -52,3 +52,6 @@ input{
     background: #f3bf4f;
     margin-top: 220rpx;
 }
+.edu-name,.edu-input{
+    width: 50%;
+}

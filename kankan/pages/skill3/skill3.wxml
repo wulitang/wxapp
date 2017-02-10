@@ -7,10 +7,11 @@
             删除
         </view>
     </view>
-    <view class="skill-line">
+    <!--<view class="skill-line">
         <view class="skill-tips">
             <view class="skill-image"></view>
         </view>
-    </view>
+    </view>-->
+    <slider bindchange="intervalChange" show-value min="1" max="4"/>
 </view>
 <view class="input">添加项目技能</view>

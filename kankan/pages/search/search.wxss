@@ -65,7 +65,7 @@ height: 27px;
 	padding:10px 0px 10px 8px;
 }
 .search_list navigator{
-	height: 86px;
+	height:88px;
 	float: left;
 	border-bottom: solid 1px #e2e2e2;
 	width: 80%;
@@ -89,7 +89,7 @@ overflow: hidden;
 }
 .search_list navigator .search_sh{
 	font-size: 14px;
-	margin: 4px 0px 8px 0px;
+	margin: 2px 0px 4px 0px;
 }
 .search_list navigator .search_price{
 position: absolute;

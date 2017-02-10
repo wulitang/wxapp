@@ -1,8 +1,9 @@
 {
   "pages": [
+    "pages/position/position",
+    "pages/skill3/skill3",
     "pages/my-resume/my-resume",
     "pages/my-resume-after/my-resume-after",
-    "pages/skill3/skill3",
     "pages/experience/experience",
     "pages/education/education",
     "pages/index/index",
@@ -23,7 +24,7 @@
     "pages/modposition/modposition",
     "pages/modeducation/modeducation",
     "pages/modjobs/modjobs",
-    "pages/position/position",
+    
     "pages/about/about",
     "pages/logs/logs",
     "pages/blank/blank",

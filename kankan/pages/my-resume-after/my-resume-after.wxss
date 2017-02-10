@@ -169,7 +169,7 @@
     text-align: center;
 }
 .over-text{
-    height: 65rpx;
+    height: 55rpx;
     line-height: 1.4;
     white-space: normal;
     text-overflow: ellipsis;
@@ -178,4 +178,7 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
     margin-right: 32rpx;
+}
+.jdt-wrap .con-margin{
+    padding-bottom: 0;
 }

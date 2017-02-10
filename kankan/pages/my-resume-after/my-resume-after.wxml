@@ -135,15 +135,15 @@
     </view>
     <view class="edu-two">
         <view class="jdt-wrap">
-            <view class="con-margin"><text class="fl jdt-l">PS</text><text class="fr jdt-r">精通</text></view>
+            <view class="con-margin clearfix"><text class="fl jdt-l">PS</text><text class="fr jdt-r">精通</text></view>
             <image class="jdt" src="img/jt-jdt.png"></image>
         </view>
         <view class="jdt-wrap">
-            <view class="con-margin"><text class="fl jdt-l">AI</text><text class="fr jdt-r">精通</text></view>
+            <view class="con-margin clearfix"><text class="fl jdt-l">AI</text><text class="fr jdt-r">精通</text></view>
             <image class="jdt" src="img/jt-jdt.png"></image>
         </view>
         <view class="jdt-wrap">
-            <view class="con-margin"><text class="fl jdt-l">AE</text><text class="fr jdt-r">掌握</text></view>
+            <view class="con-margin clearfix"><text class="fl jdt-l">AE</text><text class="fr jdt-r">掌握</text></view>
             <image class="jdt" src="img/jt-jdt.png"></image>
         </view>
     </view>

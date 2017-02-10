@@ -3,7 +3,7 @@ Page({
   data:{
     job:[{
       // 头像路径
-      head_icon:'/pages/my-job/img/head-icon.png',
+      head_icon:'/img/head-icon.png',
       title:'amazon英语运amazon英语运',
       salary:'5-8k',
       job_text:'深圳市宝安区安全生产监amazon英语运',
@@ -14,7 +14,7 @@ Page({
     },
     {
       // 头像路径
-      head_icon:'/pages/my-job/img/head-icon.png',
+      head_icon:'/img/head-icon.png',
       title:'amazon英语运amazon英语运',
       salary:'5-8k',
       job_text:'深圳市宝安区安全生产监amazon英语运',

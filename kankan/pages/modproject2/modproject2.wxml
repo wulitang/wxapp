@@ -1,0 +1,19 @@
+<view class="edu-min">
+    <view class="edu-list edu-list-1">
+        <view class="fl">项目名称</view>  <input placeholder="看看求职APP项目"/>
+    </view>
+    <view class="edu-list edu-list-2">
+        <view class="fl">你的职责</view> <input placeholder="UI设计" />
+    </view>
+    <view class="edu-list edu-list-3">
+        <view class="fl">开始时间</view> <input placeholder="2016.12项目开始" />
+    </view>
+    <view class="edu-list edu-list-4">
+        <view class="fl">结束时间</view> <input placeholder="2017.02项目结束" />
+    </view>
+    <view class="project_text">项目描述</view>
+    <textarea name="" cols="" rows="">
+        <view class="number">0/300</view>
+     </textarea>
+    <view class="sure">保存</view>
+</view>

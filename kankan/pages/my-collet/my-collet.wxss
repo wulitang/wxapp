@@ -15,7 +15,7 @@
 }
 .job-con{
     margin-left: 45rpx;
-    width: 570rpx;
+    width: 565rpx;
 }
 .job-title{
     width: 230rpx;

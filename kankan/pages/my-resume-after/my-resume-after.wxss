@@ -40,7 +40,7 @@
     border: 1px solid #ea0202;
     border-radius: 16rpx;
     margin-left: 25rpx;
-    vertical-align: text-top;
+    vertical-align: middle;
 }
 .resume-title text{
     display: inline-block;
@@ -169,7 +169,7 @@
     text-align: center;
 }
 .over-text{
-    height: 65rpx;
+    height: 55rpx;
     line-height: 1.4;
     white-space: normal;
     text-overflow: ellipsis;
@@ -178,4 +178,7 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
     margin-right: 32rpx;
+}
+.jdt-wrap .con-margin{
+    padding-bottom: 0;
 }

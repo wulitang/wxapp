@@ -11,19 +11,19 @@ page{ background: #FFF;}
 	margin-left: 15px;
 }
 .basic .point:nth-of-type(1){
-	background: url(images/basic_03.png) no-repeat left center;	
+	background: url(../../img/basic_03.png) no-repeat left center;
 	background-size: 9px;
 }
 .basic .point:nth-of-type(2){
-	background: url(images/basic_06.png) no-repeat left center;	
+	background: url(../../img/basic_06.png) no-repeat left center;
     background-size: 9px;
 }
 .basic .point:nth-of-type(3){
-	background: url(images/basic_08.png) no-repeat left center;	
+	background: url(../../img/basic_08.png) no-repeat left center;
 	background-size: 9px;
 }
 .basic .point:nth-of-type(4){
-	background: url(images/basic_11.png) no-repeat left center;	
+	background: url(../../img/basic_11.png) no-repeat left center;
 	background-size: 9px;
 }
 .basic_j{

@@ -40,7 +40,7 @@
     border: 1px solid #ea0202;
     border-radius: 16rpx;
     margin-left: 25rpx;
-    vertical-align: text-top;
+    vertical-align: text-bottom;
 }
 .resume-title text{
     display: inline-block;

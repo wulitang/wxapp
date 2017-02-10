@@ -1,7 +1,7 @@
 {
   "pages": [
-    "pages/my-resume-after/my-resume-after",
     "pages/my-resume/my-resume",
+    "pages/my-resume-after/my-resume-after",
     "pages/skill3/skill3",
     "pages/experience/experience",
     "pages/education/education",

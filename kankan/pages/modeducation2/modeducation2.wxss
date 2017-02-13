@@ -1,57 +1,72 @@
-page{
-    background: #fff;
+page {
+  background: #fff;
 }
-.edu-min{
-    border-top:1px solid #eee;
-    padding:0 10px;
-}
-view{
-    font-size: 15px;
-    color: #000;
-}
-.edu-list{
-    line-height: 45px;
-    height: 45px;
-    border-bottom: 1px solid #eee;
-    padding-left:25px;
 
+.edu-min {
+  border-top: 1px solid #eee;
+  padding: 0 10px;
 }
-input{
-    text-align: right;
-    float: right;
-    font-size: 15px;
-    color: #888888;
-    line-height: 45px;
-    height: 45px;
+
+view {
+  font-size: 15px;
+  color: #000;
 }
-.edu-list-1{
-    background: url("../../img/basic_03.png") no-repeat left center;
-    background-size: 6px 6px;
+
+.edu-list {
+  line-height: 45px;
+  height: 45px;
+  border-bottom: 1px solid #eee;
+  padding-left: 25px;
 }
-.edu-list-2{
-    background: url("../../img/basic_06.png") no-repeat left center;
-    background-size: 6px 6px;
+
+input {
+  text-align: right;
+  float: right;
+  font-size: 15px;
+  color: #888;
+  line-height: 45px;
+  height: 45px;
 }
-.edu-list-3{
-    margin-top: 35px;
-    background: url("../../img/basic_08.png") no-repeat left center;
-    background-size: 6px 6px;
+
+.edu-list-1 {
+  background: url("../../img/basic_03.png") no-repeat left center;
+  background-size: 6px 6px;
 }
-.edu-list-4{
-    background: url("../../img/basic_11.png") no-repeat left center;
-    background-size: 6px 6px;
+
+.edu-list-2 {
+  background: url("../../img/basic_06.png") no-repeat left center;
+  background-size: 6px 6px;
 }
-.sure{
-    width: 655rpx;
-    height: 70rpx;
-    margin: auto;
-    text-align: center;
-    color: #000;
-    font-size: 16px;
-    line-height: 70rpx;
-    background: #f3bf4f;
-    margin-top: 220rpx;
+
+.edu-list-3 {
+  margin-top: 35px;
+  background: url("../../img/basic_08.png") no-repeat left center;
+  background-size: 6px 6px;
 }
-.edu-name,.edu-input{
-    width: 50%;
+
+.edu-list-4 {
+  background: url("../../img/basic_11.png") no-repeat left center;
+  background-size: 6px 6px;
+}
+
+.sure {
+  width: 655rpx;
+  height: 70rpx;
+  margin: auto;
+  text-align: center;
+  color: #000;
+  font-size: 16px;
+  line-height: 70rpx;
+  background: #f3bf4f;
+  margin-top: 220rpx;
+}
+
+.edu-name, .edu-input {
+  width: 50%;
+}
+
+.picker {
+  text-align: right;
+  font-size: 15px;
+  color: #888;
 }

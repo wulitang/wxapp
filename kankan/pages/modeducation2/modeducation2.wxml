@@ -1,19 +1,23 @@
 <view class="edu-min">
-    <view class="edu-list edu-list-1">
-        <view class="fl edu-name">学校名称</view>  
-        <input class="edu-input" placeholder="南京师范大学" auto-focus/>
-    </view>
-    <view class="edu-list edu-list-2">
-        <view class="fl  edu-name">所学专业</view> 
-        <input class="edu-input" placeholder="汉语言文学" />
-    </view>
-    <view class="edu-list edu-list-3">
-        <view class="fl  edu-name">毕业时间</view> 
-        <input class="edu-input" placeholder="2016年毕业" />
-    </view>
-    <view class="edu-list edu-list-4">
-        <view class="fl  edu-name">学历</view> 
-        <input class="edu-input" placeholder="本科" />
-    </view>
-    <view class="sure">保存</view>
+  <view class="edu-list edu-list-1">
+    <view class="fl edu-name">学校名称</view>
+    <input class="edu-input" placeholder="南京师范大学" auto-focus/>
+  </view>
+  <view class="edu-list edu-list-2">
+    <view class="fl  edu-name">所学专业</view>
+    <input class="edu-input" placeholder="汉语言文学" />
+  </view>
+  <view class="edu-list edu-list-3">
+    <view class="fl  edu-name">毕业时间</view>
+    <picker mode="date" value="{{date}}" start="2015-09-01" end="2017-09-01" bindchange="bindDateChange">
+      <view class="picker">
+       2017-2-13
+      </view>
+    </picker>
+  </view>
+  <view class="edu-list edu-list-4">
+    <view class="fl  edu-name">学历</view>
+    <input class="edu-input" placeholder="本科" />
+  </view>
+  <view class="sure">保存</view>
 </view>

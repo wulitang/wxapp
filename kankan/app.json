@@ -1,9 +1,9 @@
 {
   "pages": [
-    "pages/modjob2/modjob2",
-    "pages/modproject2/modproject2",
-    "pages/modproject/modproject",
     "pages/modeducation2/modeducation2",
+    "pages/modproject2/modproject2",
+    "pages/modjob2/modjob2",
+    "pages/modproject/modproject",
     "pages/position/position",
     "pages/skill3/skill3",
     "pages/my-job/my-job",
@@ -19,8 +19,6 @@
     "pages/me/me",
     "pages/skill/skill",
     "pages/project/project",
-    "pages/index/index",
-    "pages/basic/basic",
     "pages/search/search",
     "pages/basic/basic",
     "pages/modposition/modposition",
